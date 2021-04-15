@@ -1,0 +1,7 @@
+C:\Users\golya\source\repos\WarMahins\WarMahins\bin\Debug\WarMahins.exe.config
+C:\Users\golya\source\repos\WarMahins\WarMahins\bin\Debug\WarMahins.exe
+C:\Users\golya\source\repos\WarMahins\WarMahins\bin\Debug\WarMahins.pdb
+C:\Users\golya\source\repos\WarMahins\WarMahins\obj\Debug\WarMahins.csprojAssemblyReference.cache
+C:\Users\golya\source\repos\WarMahins\WarMahins\obj\Debug\WarMahins.csproj.CoreCompileInputs.cache
+C:\Users\golya\source\repos\WarMahins\WarMahins\obj\Debug\WarMahins.exe
+C:\Users\golya\source\repos\WarMahins\WarMahins\obj\Debug\WarMahins.pdb
